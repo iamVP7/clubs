@@ -1,0 +1,10 @@
+# Site settings
+title: VEC Club is one of the big clubs in Chennai.
+tag_text: MozillaTN @ VEC
+description: Strong club focusing Add-ons Development
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
