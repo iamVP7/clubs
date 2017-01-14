@@ -10,6 +10,9 @@ disqus: true
 disqus_shortname: 'MozillaTN'
 permalink:      /:title/
 
+
+url: 'http://iamvp7.github.io/clubs'
+
 # Build settings
 markdown: kramdown
 exclude: ["README.md"]
